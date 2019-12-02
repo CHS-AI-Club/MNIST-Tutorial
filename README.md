@@ -1,7 +1,7 @@
 # MNIST-Tutorial
 
 12/2/2019: 
-  -Git clone this repo or download the zip.
+* Git clone this repo or download the zip.
   -Launch Anaconda Navigator and open Jupyter Notebook.
   -Open the ipynb file in the cloned folder through Jupyter.
   -Read through the details of the notebook.

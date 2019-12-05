@@ -9,3 +9,5 @@
   you will, above each code block, write a markdown block that explains what the code does. I
   want you to understand the functionality of this basic program, because the same format will
   be used later. Please feel free to experiment with the python code.
+* For those who are having issues with importing Tensorflow and Keras, make sure to pip install
+those libraries through anaconda PowerShell.
